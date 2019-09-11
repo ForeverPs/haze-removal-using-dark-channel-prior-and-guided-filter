@@ -10,7 +10,6 @@
 1. [Usage](#Usage)
 1. [References](#references)
 ---
----
 
 #### Environments
 
