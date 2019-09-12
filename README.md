@@ -54,10 +54,10 @@
 
 #### References
 
-##### Author&ensp;:&enspKaiming He, Jian Sun, Xiaoou Tang<br>
+##### Author&ensp;:&ensp;Kaiming He, Jian Sun, Xiaoou Tang<br>
 * ###### &ensp;[Single Image Haze Removal Using Dark Channel Prior----CVPR 2009](http://kaiminghe.com/publications/cvpr09.pdf)<br>
 * ###### &ensp;[Guided Image Filtering----ECCV 2010](http://kaiminghe.com/publications/eccv10guidedfilter.pdf)<br><br>
 
-##### Author&ensp;:&enspAnat Levin, Dani Lischinski, Yair Weiss<br>
+##### Author&ensp;:&ensp;Anat Levin, Dani Lischinski, Yair Weiss<br>
 * ###### &ensp;[A Closed Form Solution to Natural Image Matting----CVPR 2006](https://ieeexplore.ieee.org/document/4359322)<br><br>
 
