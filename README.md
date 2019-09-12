@@ -40,16 +40,16 @@
  * The function `haze_removal()` contains each step used in image de-hazing, I wrote this just for convenience. 
 
 #### Results
-* [**Airport**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/plane.jpg)&ensp;:&ensp;from the internet<br>
-<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_plane.png /><br> 
+* [**Airport**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/plane.jpg)&ensp;:&ensp;the original image is downloaded from internet<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_plane.png /><br><br> 
 
-* [**The Forbidden City**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/palace.jpg)&ensp;:&ensp;from Kaiming He's paper<br>
-<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_dark_channel.png /><br>
+* [**The Forbidden City**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/palace.jpg)&ensp;:&ensp;the original image comes from Kaiming He's paper<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_dark_channel.png /><br><br>
 
-* [**The Street**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/street.jpg)&ensp;:&ensp;from internet<br>
-<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_street.png /><br>
+* [**The Street**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/street.jpg)&ensp;:&ensp;the original image is downloaded from internet<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_street.png /><br><br>
 
-* [**A380 is taking off**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/a380.jpg)&ensp;:&ensp;from internet<br>
-<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_a380.png /><br>
+* [**A380 is taking off**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/a380.jpg)&ensp;:&ensp;the original image is downloaded from internet<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_a380.png /><br><br>
 
 #### References
