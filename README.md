@@ -6,29 +6,33 @@
 1. [Environments](#Environments)
 1. [Packages](#Packages)
 1. [Methods](#Methods)
-1. [Codes](#Codes)
 1. [Usage](#Usage)
+1. [Results](#Results)
 1. [References](#references)
 ---
 
 #### Environments
 
-###### Python&ensp;3.0.0 or newer<br>
+###### &emsp;Python&ensp;3.0.0 or newer<br>
 * I do suggest you use python 3 which is both stable and widely used nowadays.
 * The code also works well with python 2 since I just use numpy and matplotlib.
 
 #### Packages
 
-###### numpy<br>
-###### matplotlib<br>
+###### &emsp;numpy<br>
+###### &emsp;matplotlib<br>
 * The requirement to the version of these packages is not strict, because we just use the basic function.  
+* The tools used to read image is matplotlib which is in the order of RGB while cv2 is in the order of BGR.
 * I want to remind you that even the same operator can have different meanings between matrix and array in numpy.
-* The tools used to read image is matplotlib which in the order of RGB while cv2 is in the order of BGR. From this perspective, I strongly suggest that it's a better way to use the same package load image and show the result.
 
 #### Methods
 
-#### Codes
+###### &emsp;[Dark Channel Prior](http://kaiminghe.com/publications/cvpr09.pdf)<br>
+###### &emsp;[Guided Image Filter](http://kaiminghe.com/publications/eccv10guidedfilter.pdf)<br>
+###### &emsp;[Matting Laplacian Matrix](https://ieeexplore.ieee.org/document/4359322)<br>
 
 #### Usage
+
+#### Results
 
 #### References
