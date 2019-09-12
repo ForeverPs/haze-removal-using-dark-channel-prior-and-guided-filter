@@ -40,7 +40,16 @@
  * The function `haze_removal` contains each step used in image de-hazing, I wrote this just for convenience. 
 
 #### Results
-* Airplane<br>
-<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/plane.jpg /><br> 
+* Airport&ensp;:&ensp;from internet<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_plane.png /><br> 
+
+* The Forbidden City&ensp;:&ensp;from Kaiming He's paper<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_dark_channel.png /><br>
+
+* The Street&ensp;:&ensp;from internet<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_street.png /><br>
+
+* A380 is taking off&ensp;:&ensp;from internet<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_a380.png /><br>
 
 #### References
