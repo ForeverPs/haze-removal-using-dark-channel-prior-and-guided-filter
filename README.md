@@ -41,14 +41,21 @@
 
 #### Results
 
+* [**Tiananmen Square**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/plane.jpg)&ensp;:&ensp;the original image comes from Kaiming He's paper<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_tiananmen.png /><br><br> 
+
+
 * [**New York**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/plane.jpg)&ensp;:&ensp;the original image comes from Kaiming He's paper<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_ny.png /><br><br> 
+
+* [**The Forbidden City**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/palace.jpg)&ensp;:&ensp;the original image comes from Kaiming He's paper<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_dark_channel.png /><br><br>
+
+* [**HongKong**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/plane.jpg)&ensp;:&ensp;the original image comes from Kaiming He's paper<br>
 <img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_hk.png /><br><br> 
 
 * [**Airport**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/plane.jpg)&ensp;:&ensp;the original image is downloaded from internet<br>
 <img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_plane.png /><br><br> 
-
-* [**The Forbidden City**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/palace.jpg)&ensp;:&ensp;the original image comes from Kaiming He's paper<br>
-<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_dark_channel.png /><br><br>
 
 * [**The Street**](https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/street.jpg)&ensp;:&ensp;the original image is downloaded from internet<br>
 <img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_street.png /><br><br>
