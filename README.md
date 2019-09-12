@@ -29,13 +29,18 @@
 
 * ###### &ensp;[Dark Channel Prior---CVPR 2009](http://kaiminghe.com/publications/cvpr09.pdf)<br>
 &emsp; This method was mainly put forward by [**Kaiming He**](http://kaiminghe.com/), and then it was published at CVPR 2009 which was rated as the best paper.<br>
-* ###### &ensp;[Guided Image Filter---ECCV 2010](http://kaiminghe.com/publications/eccv10guidedfilter.pdf)<br>
+* ###### &ensp;[Guided Image Filtering---ECCV 2010](http://kaiminghe.com/publications/eccv10guidedfilter.pdf)<br>
 &emsp; This method help us get a fine haze removal image in a fast way with less cost compared with matting method.<br>
 * ###### &ensp;[Matting Laplacian Matrix---CVPR 2006](https://ieeexplore.ieee.org/document/4359322)<br>
 &emsp; From [paper](http://kaiminghe.com/publications/cvpr09.pdf), we can see that the matting laplacian is the inspiration of guided image filter, they are both ingenious and attractive.
 
 #### Usage
+ * I don't want to package the code so that you can see the details, and you are welcomed to give me suggestion.
+ * The variables used in my code are as same as these in official papers so that you can get it easily.
+ * The function `haze_removal` contains each step used in image de-hazing, I wrote this just for convenience. 
 
 #### Results
+* Airplane
+<img src= ./image/plane.png /><br> 
 
 #### References
