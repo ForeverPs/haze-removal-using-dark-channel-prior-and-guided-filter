@@ -40,7 +40,7 @@
  * The function `haze_removal` contains each step used in image de-hazing, I wrote this just for convenience. 
 
 #### Results
-* Airplane
-<img src= ./image/plane.png /><br> 
+* Airplane<br>
+<img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/image/plane.jpg /><br> 
 
 #### References
