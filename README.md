@@ -40,7 +40,7 @@
  * The function `haze_removal` contains each step used in image de-hazing, I wrote this just for convenience. 
 
 #### Results
-* Airport&ensp;:&ensp;from internet<br>
+* $\color{red}{**Airport**}$&ensp;:&ensp;from internet<br>
 <img src= https://github.com/ForeverPs/haze-removal-using-dark-channel-prior-and-guided-filter/blob/master/results/haze_removal_plane.png /><br> 
 
 * The Forbidden City&ensp;:&ensp;from Kaiming He's paper<br>
