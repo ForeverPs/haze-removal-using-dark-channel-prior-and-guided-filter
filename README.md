@@ -13,6 +13,10 @@
 
 #### Environments
 
+###### Python&ensp;3.0.0+<br>
+* I do suggest you use python 3 which is widely used nowadays.
+* The code also works well with python 2 since I just use numpy and matplotlib.
+
 #### Packages
 
 #### Methods
