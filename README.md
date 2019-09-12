@@ -27,9 +27,12 @@
 
 #### Methods
 
-* ###### &emsp;[Dark Channel Prior](http://kaiminghe.com/publications/cvpr09.pdf)<br>
-###### &emsp;[Guided Image Filter](http://kaiminghe.com/publications/eccv10guidedfilter.pdf)<br>
-###### &emsp;[Matting Laplacian Matrix](https://ieeexplore.ieee.org/document/4359322)<br>
+* ###### &ensp;[Dark Channel Prior---CVPR 2009](http://kaiminghe.com/publications/cvpr09.pdf)<br>
+&emsp; This method was mainly put forward by [**Kaiming He**](http://kaiminghe.com/), and then it was published at CVPR 2009 which was rated as the best paper.<br>
+* ###### &ensp;[Guided Image Filter---ECCV 2010](http://kaiminghe.com/publications/eccv10guidedfilter.pdf)<br>
+&emsp; This method help us get a fine haze removal image in a fast way with less cost compared with matting method.<br>
+* ###### &ensp;[Matting Laplacian Matrix---CVPR 2006](https://ieeexplore.ieee.org/document/4359322)<br>
+&emsp; From [paper](http://kaiminghe.com/publications/cvpr09.pdf), we can see that the matting laplacian is the inspiration of guided image filter, they are both ingenious and attractive.
 
 #### Usage
 
