@@ -27,7 +27,7 @@
 
 #### Methods
 
-###### &emsp;[Dark Channel Prior](http://kaiminghe.com/publications/cvpr09.pdf)<br>
+* ###### &emsp;[Dark Channel Prior](http://kaiminghe.com/publications/cvpr09.pdf)<br>
 ###### &emsp;[Guided Image Filter](http://kaiminghe.com/publications/eccv10guidedfilter.pdf)<br>
 ###### &emsp;[Matting Laplacian Matrix](https://ieeexplore.ieee.org/document/4359322)<br>
 
